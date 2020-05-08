@@ -21,16 +21,16 @@ When you get everything ready, check the file directories
 ProjectRoot
 |----datasets
 |    |----road
-|    |----train
-|        |----001.jpg
-|        |----002.jpg
-|        |----...
-|        |----via_region_data.json
-|    |----val
-|        |----001.jpg
-|        |----002.jpg
-|        |----...
-|        |----via_region_data.json
+|        |----train
+|            |----001.jpg
+|            |----002.jpg
+|            |----...
+|            |----via_region_data.json
+|        |----val
+|            |----001.jpg
+|            |----002.jpg
+|            |----...
+|            |----via_region_data.json
 |----logs
 |    |----road20200428T0636
 |        |----mask_rcnn_road_0030.h5
