@@ -1,0 +1,1 @@
+to speed up the training, it is recommended to download the trained weight from https://drive.google.com/file/d/10h8HU0ezOUGNj-NvLNX_jAAMJ_jCqi74/view
